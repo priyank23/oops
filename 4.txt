@@ -1,0 +1,13 @@
+Department List
+
+01. Computer Science & Engineering
+02. Chemical Engineering
+03. Mechanical Engineering
+
+Subject Code:
+
+1. English
+2. Maths
+3. Sociology
+4. E.Tech
+5. Physics
